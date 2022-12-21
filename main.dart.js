@@ -51293,7 +51293,7 @@ bk(){this.bW()
 this.bM()
 this.f4()}}
 A.vp.prototype={
-C(f5,f6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1=null,e2=2500,e3="80.0%",e4="70.0%",e5="40.0%",e6="25.0%",e7="50.0%",e8="60.0%",e9="30.0%",f0="20.0%",f1="GCP Cloud Build",f2="CodeMagic",f3="15.0%",f4=this.c
+C(f5,f6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1=null,e2=2500,e3="80.0%",e4="90.0%",e5="40.0%",e6="25.0%",e7="50.0%",e8="60.0%",e9="30.0%",f0="20.0%",f1="GCP Cloud Build",f2="CodeMagic",f3="15.0%",f4=this.c
 if(f4===0){f4=A.ba(A.j("Programing",A.x(e1,e1,B.l,e1,e1,e1,e1,e1,e1,e1,e1,20,e1,B.w,e1,e1,!0,e1,e1,e1,e1,e1,e1,e1,e1),e1,e1),e1,e1)
 s=A.I(A.j("Dart",A.x(e1,e1,B.e,e1,e1,e1,e1,e1,e1,e1,e1,e1,e1,B.m,e1,e1,!0,e1,e1,e1,e1,e1,e1,e1,e1),e1,e1),e1,100)
 r=t.w
@@ -51325,10 +51325,10 @@ g=f6.t(r).f
 g=A.F(A.b([h,A.a9(!0,e2,A.j(e3,e1,e1,e1),20,B.o,0.8,B.e,g.a.a*0.4)],p),B.f,B.n,B.k)
 h=A.I(A.j("NestJS",A.x(e1,e1,B.e,e1,e1,e1,e1,e1,e1,e1,e1,e1,e1,B.m,e1,e1,!0,e1,e1,e1,e1,e1,e1,e1,e1),e1,e1),e1,100)
 f=f6.t(r).f
-f=A.F(A.b([h,A.a9(!0,e2,A.j("65.0%",e1,e1,e1),20,B.o,0.65,B.e,f.a.a*0.4)],p),B.f,B.n,B.k)
+f=A.F(A.b([h,A.a9(!0,e2,A.j("80.0%",e1,e1,e1),20,B.o,0.65,B.e,f.a.a*0.4)],p),B.f,B.n,B.k)
 h=A.I(A.j("NodeJS",A.x(e1,e1,B.e,e1,e1,e1,e1,e1,e1,e1,e1,e1,e1,B.m,e1,e1,!0,e1,e1,e1,e1,e1,e1,e1,e1),e1,e1),e1,100)
 e=f6.t(r).f
-e=A.F(A.b([h,A.a9(!0,e2,A.j("65.0%",e1,e1,e1),20,B.o,0.65,B.e,e.a.a*0.4)],p),B.f,B.n,B.k)
+e=A.F(A.b([h,A.a9(!0,e2,A.j("90.0%",e1,e1,e1),20,B.o,0.65,B.e,e.a.a*0.4)],p),B.f,B.n,B.k)
 h=A.I(A.j("NextJS",A.x(e1,e1,B.e,e1,e1,e1,e1,e1,e1,e1,e1,e1,e1,B.m,e1,e1,!0,e1,e1,e1,e1,e1,e1,e1,e1),e1,e1),e1,100)
 d=f6.t(r).f
 d=A.F(A.b([h,A.a9(!0,e2,A.j(e7,e1,e1,e1),20,B.o,0.5,B.e,d.a.a*0.4)],p),B.f,B.n,B.k)
